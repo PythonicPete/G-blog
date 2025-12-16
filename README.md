@@ -72,7 +72,7 @@ Want to explore the code? Follow these steps:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YourUsername/G-Blogs.git](https://github.com/YourUsername/G-Blogs.git)
+    git clone [https://github.com/PythonicPete/G-Blogs.git](https://github.com/PythonicPete/G-Blogs.git)
     cd G-Blogs
     ```
 
