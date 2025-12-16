@@ -93,5 +93,7 @@ Smart Suggestions: A sidebar algorithm that recommends users to follow based on 
 Profile Customization: Full control over bio, profile picture, and visa showcase visibility.
 
 <div align="center">
-<h3>🚀 <a href="https://www.google.com/search?q=https://gouravSingh.pythonanywhere.com/">Experience G-Blogs Live</a> 🚀</h3>
-<p
+<h2>✨ <a href="https://www.google.com/search?q=https://gouravSingh.pythonanywhere.com/">Experience G-Blogs Live</a> ✨</h2>
+<p><i>The Future of Social Travel is Just a Click Away</i></p>
+<p>Designed & Developed by <b>Gourav</b></p>
+</div>
